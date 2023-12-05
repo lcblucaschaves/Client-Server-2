@@ -1,15 +1,12 @@
 #Projeto: Super Mario World - Inteligência Artificial - 2023.Q3
-
 Prof. Fabrício Olivetti de França (folivetti@ufabc.edu.br) - UFABC
 
-## Enunciado
-
+##Enunciado
 Esse é um projeto onde implementamos um agente inteligente capaz de jogar a fase *YoshiIsland2* do jogo Super Mario World, utilizando um dos algoritmos apresentados em aula na segunda metade do curso.
 
 Os algoritmos devem ser escritos em Python e farão uso da biblioteca Retro Gym (https://github.com/openai/retro).
 
-## Grupos
-
+##Grupos
 Esse projeto foi realizado por:
 
 ```
